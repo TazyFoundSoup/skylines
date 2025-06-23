@@ -1,5 +1,7 @@
 [package]
 name = "skylines"
+description = "A blazingly fast, and dead simple to use modern web framework for anyone."
+license = "MIT OR Apache-2.0"
 version = "0.1.0"
 edition = "2021"
 
